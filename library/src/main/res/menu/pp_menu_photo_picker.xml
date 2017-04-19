@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Album"
+        android:id="@+id/action_album"
+        app:actionLayout="@layout/pp_album_btn_layout"
+        android:orderInCategory="50"
+        android:clickable="true"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="Done"
+        android:id="@+id/action_finish"
+        app:actionLayout="@layout/pp_finish_btn_layout"
+        android:orderInCategory="100"
+        android:clickable="true"
+        app:showAsAction="always"/>
+
+
+
+
+</menu>

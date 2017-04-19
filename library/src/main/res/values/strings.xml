@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+
+    <string name="pp_btn_finish">%1$s %2$s</string>
+</resources>
